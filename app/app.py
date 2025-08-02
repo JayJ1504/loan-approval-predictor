@@ -5,7 +5,7 @@ import numpy as np
 import os
 
 # Load the trained model
-model_path = r"C:\Users\jayja\Desktop\Projects\ML-Projects\loan-approval-predictor\model\loan_approval_model.pkl"
+model_path = 'model/loan_approval_model.pkl'
 model = joblib.load(model_path)
 
 st.set_page_config(page_title="Loan Approval Predictor", layout="centered")
