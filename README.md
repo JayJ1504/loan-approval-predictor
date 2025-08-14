@@ -1,4 +1,4 @@
-# 🏦 Loan Approval Prediction System
+# 🏦 IntelliLoan – AI-Driven Loan Approval Prediction System 
 
 A deployed machine learning web app that predicts whether a loan will be approved, using applicant details like income, credit history, and loan amount. Built with **XGBoost** for accuracy and **Streamlit** for an intuitive user interface.
 
